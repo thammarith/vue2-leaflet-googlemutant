@@ -29,7 +29,7 @@
     "leaflet": "^1.5.1",
     "leaflet.gridlayer.googlemutant": "^0.8.0",
     "vue-cli": "^2.9.6",
-    "vue2-leaflet": "^2.1.1",
+    "vue2-leaflet": "^2.2.1",
     "webpack-node-externals": "^1.5.4"
   },
   "peerDependencies": {
